@@ -2,14 +2,48 @@
     "name": "quasar-extension-pack",
     "displayName": "Quasar Extension Pack",
     "description": "Recommend extensions by Quasar",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "francescopastore",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.43.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "keywords": [
+        "quasar",
+        "vue",
+        "node",
+        "javascript",
+        "es6"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/francescopastore/quasar-extension-pack"
+    },
+    "homepage": "https://github.com/francescopastore/quasar-extension-pack",
+    "bugs": {
+      "url": "https://github.com/francescopastore/quasar-extension-pack/issues"
+    },
+    "extensionPack": [
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "lacroixdavid1.vscode-format-context-menu",
+        "eamodio.gitlens",
+        "wix.vscode-import-cost",
+        "Syler.sass-indented",
+        "glen-84.sass-lint",
+        "sysoev.language-stylus",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode",
+        "mrmlnc.vscode-attrs-sorter",
+        "wayou.vscode-todo-highlight",
+        "octref.vetur",
+        "dariofuzinato.vue-peek",
+        "vscode-icons-team.vscode-icons"
     ]
 }
