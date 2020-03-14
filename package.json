@@ -1,0 +1,15 @@
+{
+    "name": "quasar-extension-pack",
+    "displayName": "Quasar Extension Pack",
+    "description": "Recommend extensions by Quasar",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
