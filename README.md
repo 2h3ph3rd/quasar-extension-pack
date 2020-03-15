@@ -4,6 +4,8 @@ Unofficial extension pack with recommended extensions by Quasar.
 
 [Link to Quasar Doc recommendations](https://quasar.dev/start/vs-code-configuration#Recommended-additional-VS-Code-extensions-and-settings-updates)
 
+![Logo](https://github.com/francescopastore/quasar-extension-pack/raw/master/icon.png "Logo")
+
 ## Extensions included
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 \- Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
