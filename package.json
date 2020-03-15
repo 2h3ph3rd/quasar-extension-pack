@@ -1,7 +1,7 @@
 {
     "name": "quasar-extension-pack",
     "displayName": "Quasar Extension Pack",
-    "description": "Recommend extensions by Quasar",
+    "description": "Unofficial extension pack with recommended extensions by Quasar.",
     "version": "1.0.0",
     "publisher": "francescopastore",
     "icon": "icon.png",
