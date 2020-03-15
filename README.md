@@ -1,8 +1,8 @@
 # Quasar Extension Pack for VS Code
 
-Unofficial extension pack with recommended extensions by Quasar.
+Unofficial extension pack with [recommended extensions by Quasar](https://quasar.dev/start/vs-code-configuration#Recommended-additional-VS-Code-extensions-and-settings-updates).
 
-[Link to Quasar Doc recommendations](https://quasar.dev/start/vs-code-configuration#Recommended-additional-VS-Code-extensions-and-settings-updates)
+https://marketplace.visualstudio.com/items?itemName=francescopastore.quasar-extension-pack
 
 ![Logo](https://github.com/francescopastore/quasar-extension-pack/raw/master/icon.png "Logo")
 
