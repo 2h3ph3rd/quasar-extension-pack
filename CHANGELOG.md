@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - VS Code setting recommended by Quasar
 
+## [1.0.1] - 2020-03-15
+### Added
+
+- Gallery banner color
+
 
 ## [1.0.0] - 2020-03-15
 ### Added
