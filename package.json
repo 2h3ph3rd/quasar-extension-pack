@@ -18,6 +18,10 @@
         "javascript",
         "es6"
     ],
+    "galleryBanner": {
+		"color": "#1976d2",
+		"theme": "dark"
+	},
     "repository": {
         "type": "git",
         "url": "https://github.com/francescopastore/quasar-extension-pack"
